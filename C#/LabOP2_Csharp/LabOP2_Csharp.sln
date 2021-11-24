@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabOP2_Csharp", "LabOP2_Csharp\LabOP2_Csharp.csproj", "{EC64C29A-F838-4EC6-A552-D70869F84375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC64C29A-F838-4EC6-A552-D70869F84375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC64C29A-F838-4EC6-A552-D70869F84375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC64C29A-F838-4EC6-A552-D70869F84375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC64C29A-F838-4EC6-A552-D70869F84375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {606C1C8F-25EC-4B71-87F3-1288FD72EF37}
+	EndGlobalSection
+EndGlobal

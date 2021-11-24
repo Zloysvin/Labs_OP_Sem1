@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LabOP2_Csharp/1.0.0": {
+        "runtime": {
+          "LabOP2_Csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabOP2_Csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
