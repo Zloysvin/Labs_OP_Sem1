@@ -1,0 +1,13 @@
+C:\Users\R2D2\Desktop\KPI\ОП\C#\LabOP5_Csharp\LabOP5_Csharp\bin\Debug\netcoreapp3.1\LabOP5_Csharp.exe
+C:\Users\R2D2\Desktop\KPI\ОП\C#\LabOP5_Csharp\LabOP5_Csharp\bin\Debug\netcoreapp3.1\LabOP5_Csharp.deps.json
+C:\Users\R2D2\Desktop\KPI\ОП\C#\LabOP5_Csharp\LabOP5_Csharp\bin\Debug\netcoreapp3.1\LabOP5_Csharp.runtimeconfig.json
+C:\Users\R2D2\Desktop\KPI\ОП\C#\LabOP5_Csharp\LabOP5_Csharp\bin\Debug\netcoreapp3.1\LabOP5_Csharp.runtimeconfig.dev.json
+C:\Users\R2D2\Desktop\KPI\ОП\C#\LabOP5_Csharp\LabOP5_Csharp\bin\Debug\netcoreapp3.1\LabOP5_Csharp.dll
+C:\Users\R2D2\Desktop\KPI\ОП\C#\LabOP5_Csharp\LabOP5_Csharp\bin\Debug\netcoreapp3.1\LabOP5_Csharp.pdb
+C:\Users\R2D2\Desktop\KPI\ОП\C#\LabOP5_Csharp\LabOP5_Csharp\obj\Debug\netcoreapp3.1\LabOP5_Csharp.csprojAssemblyReference.cache
+C:\Users\R2D2\Desktop\KPI\ОП\C#\LabOP5_Csharp\LabOP5_Csharp\obj\Debug\netcoreapp3.1\LabOP5_Csharp.AssemblyInfoInputs.cache
+C:\Users\R2D2\Desktop\KPI\ОП\C#\LabOP5_Csharp\LabOP5_Csharp\obj\Debug\netcoreapp3.1\LabOP5_Csharp.AssemblyInfo.cs
+C:\Users\R2D2\Desktop\KPI\ОП\C#\LabOP5_Csharp\LabOP5_Csharp\obj\Debug\netcoreapp3.1\LabOP5_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\R2D2\Desktop\KPI\ОП\C#\LabOP5_Csharp\LabOP5_Csharp\obj\Debug\netcoreapp3.1\LabOP5_Csharp.dll
+C:\Users\R2D2\Desktop\KPI\ОП\C#\LabOP5_Csharp\LabOP5_Csharp\obj\Debug\netcoreapp3.1\LabOP5_Csharp.pdb
+C:\Users\R2D2\Desktop\KPI\ОП\C#\LabOP5_Csharp\LabOP5_Csharp\obj\Debug\netcoreapp3.1\LabOP5_Csharp.genruntimeconfig.cache
